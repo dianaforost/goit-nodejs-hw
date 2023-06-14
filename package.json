@@ -1,0 +1,20 @@
+{
+  "name": "goit-nodejs-hw",
+  "version": "1.0.0",
+  "description": "nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/dianaforost/goit-nodejs-hw"
+  },
+  "keywords": [],
+  "author": "Diana",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
